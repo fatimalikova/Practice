@@ -1,0 +1,74 @@
+﻿using ForPractice.Casting;
+using ForPractice.Interface;
+
+namespace ForPractice
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            UserRepo userRepo = new UserRepo();
+            userRepo.SendEmail();
+
+            IA ab = new AB();
+            ab.A();
+
+            IEat human = new Human();
+            human.Work(); // boxing
+            human.Eat();
+
+
+            Person designerEngineer = new DesignerEngineer();
+            designerEngineer.Name = "Alice";
+            designerEngineer.Age = 30;
+            designerEngineer.KnowledgeAreas = new string[] { "UI/UX", "Graphic Design" };
+            designerEngineer.Birthday = new DateTime(1993, 5, 15);
+            designerEngineer.Id = 1;
+            designerEngineer.DesignTool = "Figma";
+
+            DesignerEngineer designerEngineer = new DesignerEngineer();
+            designerEngineer.Id = 1;
+            designerEngineer.Name = "Alice";
+            designerEngineer.Age = 30;
+            designerEngineer.Birthday = new DateTime(1993, 5, 15);
+            designerEngineer.KnowledgeAreas = new string[] { "UI/UX", "Graphic Design" };
+            designerEngineer.DesignTool = "Figma";
+
+            ProgrammerEngineer programmerEngineer = new ProgrammerEngineer();
+            programmerEngineer.Id = 2;
+            programmerEngineer.Name = "Bob";
+            programmerEngineer.Age = 28;
+            programmerEngineer.Birthday = new DateTime(1995, 8, 22);
+            programmerEngineer.KnowledgeAreas = new string[] { "Backend Development", "Database Management" };
+            programmerEngineer.ProgrammingLanguage = "C#";
+
+            Person[] person = new Person[] { designerEngineer, programmerEngineer };
+            //DesignerEngineer engineer = (DesignerEngineer)person[0];
+            foreach(var item in person)
+            {
+                DesignerEngineer engineer = item as DesignerEngineer;
+                if (engineer != null)
+                {
+                    engineer.DisplayInfo();
+                }
+                //if (item is DesignerEngineer engineer)
+                //{
+                //    DesignerEngineer engineer = (DesignerEngineer)item;
+                //    engineer.DisplayInfo();
+                //}
+            }
+
+
+
+
+
+            //foreach (var item in objects)
+            //{
+            //    item.DisplayInfo();
+            //} 
+
+            //Engineer engineer = new ProgrammerEngineer(); // Upcasting
+
+        }
+    }
+}
