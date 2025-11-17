@@ -69,13 +69,12 @@ namespace ForPractice
             ////Engineer engineer = new ProgrammerEngineer(); // Upcasting
 
 
-            ConcretePerson person = new ConcretePerson()
-            {
-                Id = 1,
-                Name = "John Doe",
-                Age = 25,
-                Birthday = new DateTime(2007, 8, 25)
-            };
+            ConcretePerson person = new ConcretePerson();
+            person.Id = 1;
+            person.Name = "John Doe";
+            person.Age = 25;
+            person.Birthday = new DateTime(1998, 4, 12);
+            Console.WriteLine(person.ToString());
             person.Detail();
 
         }

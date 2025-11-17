@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ForPractice.Casting
 {
-    internal class ProgrammerEngineer : Engineer
+    internal sealed class ProgrammerEngineer : Engineer
     {
         public string ProgrammingLanguage { get; set; }
 

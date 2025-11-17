@@ -100,4 +100,25 @@ namespace ForPractice.Interface
             Console.WriteLine("Interface B method implementation");
         }
     }
+
+    public interface Class1
+    {
+        public int MyProperty { get; set; }
+        public void Worker();
+    }
+
+    public abstract class CLass2
+    {
+        public int MyProperty { get; set; }
+        public abstract void Worker();
+    }
+
+    class Class : Class1
+    {
+        public int MyProperty {get =>throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public void Worker()
+        {
+            Console.WriteLine("Worker method implementation");
+        }
+    }
 }

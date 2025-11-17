@@ -7,24 +7,32 @@
       "RelativeMoniker": "D:0:0:{FEC99A36-9345-4727-85D1-F8D1E57CBE0A}|ForPractice\\ForPractice.csproj|solutionrelative:forpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEC99A36-9345-4727-85D1-F8D1E57CBE0A}|ForPractice\\ForPractice.csproj|c:\\users\\fmeli\\onedrive\\desktop\\practice\\forpractice\\forpractice\\casting\\programmerengineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEC99A36-9345-4727-85D1-F8D1E57CBE0A}|ForPractice\\ForPractice.csproj|solutionrelative:forpractice\\casting\\programmerengineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEC99A36-9345-4727-85D1-F8D1E57CBE0A}|ForPractice\\ForPractice.csproj|c:\\users\\fmeli\\onedrive\\desktop\\practice\\forpractice\\forpractice\\abstraction\\concreteperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC99A36-9345-4727-85D1-F8D1E57CBE0A}|ForPractice\\ForPractice.csproj|solutionrelative:forpractice\\abstraction\\concreteperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEC99A36-9345-4727-85D1-F8D1E57CBE0A}|ForPractice\\ForPractice.csproj|c:\\users\\fmeli\\onedrive\\desktop\\practice\\forpractice\\forpractice\\casting\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEC99A36-9345-4727-85D1-F8D1E57CBE0A}|ForPractice\\ForPractice.csproj|solutionrelative:forpractice\\casting\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEC99A36-9345-4727-85D1-F8D1E57CBE0A}|ForPractice\\ForPractice.csproj|c:\\users\\fmeli\\onedrive\\desktop\\practice\\forpractice\\forpractice\\abstraction\\person1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC99A36-9345-4727-85D1-F8D1E57CBE0A}|ForPractice\\ForPractice.csproj|solutionrelative:forpractice\\abstraction\\person1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC99A36-9345-4727-85D1-F8D1E57CBE0A}|ForPractice\\ForPractice.csproj|c:\\users\\fmeli\\onedrive\\desktop\\practice\\forpractice\\forpractice\\interface\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC99A36-9345-4727-85D1-F8D1E57CBE0A}|ForPractice\\ForPractice.csproj|solutionrelative:forpractice\\interface\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEC99A36-9345-4727-85D1-F8D1E57CBE0A}|ForPractice\\ForPractice.csproj|c:\\users\\fmeli\\onedrive\\desktop\\practice\\forpractice\\forpractice\\casting\\engineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEC99A36-9345-4727-85D1-F8D1E57CBE0A}|ForPractice\\ForPractice.csproj|solutionrelative:forpractice\\casting\\engineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FEC99A36-9345-4727-85D1-F8D1E57CBE0A}|ForPractice\\ForPractice.csproj|c:\\users\\fmeli\\onedrive\\desktop\\practice\\forpractice\\forpractice\\casting\\programmerengineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC99A36-9345-4727-85D1-F8D1E57CBE0A}|ForPractice\\ForPractice.csproj|solutionrelative:forpractice\\casting\\programmerengineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FEC99A36-9345-4727-85D1-F8D1E57CBE0A}|ForPractice\\ForPractice.csproj|c:\\users\\fmeli\\onedrive\\desktop\\practice\\forpractice\\forpractice\\casting\\designerengineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEC99A36-9345-4727-85D1-F8D1E57CBE0A}|ForPractice\\ForPractice.csproj|solutionrelative:forpractice\\casting\\designerengineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEC99A36-9345-4727-85D1-F8D1E57CBE0A}|ForPractice\\ForPractice.csproj|c:\\users\\fmeli\\onedrive\\desktop\\practice\\forpractice\\forpractice\\interface\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEC99A36-9345-4727-85D1-F8D1E57CBE0A}|ForPractice\\ForPractice.csproj|solutionrelative:forpractice\\interface\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEC99A36-9345-4727-85D1-F8D1E57CBE0A}|ForPractice\\ForPractice.csproj|c:\\users\\fmeli\\onedrive\\desktop\\practice\\forpractice\\forpractice\\casting\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC99A36-9345-4727-85D1-F8D1E57CBE0A}|ForPractice\\ForPractice.csproj|solutionrelative:forpractice\\casting\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,45 +42,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\practice\\ForPractice\\ForPractice\\Casting\\Person.cs",
-              "RelativeDocumentMoniker": "ForPractice\\Casting\\Person.cs",
-              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\practice\\ForPractice\\ForPractice\\Casting\\Person.cs",
-              "RelativeToolTip": "ForPractice\\Casting\\Person.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T21:08:42.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Engineer.cs",
-              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\practice\\ForPractice\\ForPractice\\Casting\\Engineer.cs",
-              "RelativeDocumentMoniker": "ForPractice\\Casting\\Engineer.cs",
-              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\practice\\ForPractice\\ForPractice\\Casting\\Engineer.cs",
-              "RelativeToolTip": "ForPractice\\Casting\\Engineer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T19:18:22.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProgrammerEngineer.cs",
-              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\practice\\ForPractice\\ForPractice\\Casting\\ProgrammerEngineer.cs",
-              "RelativeDocumentMoniker": "ForPractice\\Casting\\ProgrammerEngineer.cs",
-              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\practice\\ForPractice\\ForPractice\\Casting\\ProgrammerEngineer.cs",
-              "RelativeToolTip": "ForPractice\\Casting\\ProgrammerEngineer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Title": "ConcretePerson.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\practice\\ForPractice\\ForPractice\\Abstraction\\ConcretePerson.cs",
+              "RelativeDocumentMoniker": "ForPractice\\Abstraction\\ConcretePerson.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\practice\\ForPractice\\ForPractice\\Abstraction\\ConcretePerson.cs*",
+              "RelativeToolTip": "ForPractice\\Abstraction\\ConcretePerson.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T19:23:07.296Z",
+              "WhenOpened": "2025-11-17T22:13:54.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person1.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\practice\\ForPractice\\ForPractice\\Abstraction\\Person1.cs",
+              "RelativeDocumentMoniker": "ForPractice\\Abstraction\\Person1.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\practice\\ForPractice\\ForPractice\\Abstraction\\Person1.cs",
+              "RelativeToolTip": "ForPractice\\Abstraction\\Person1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:03:50.981Z",
               "EditorCaption": ""
             },
             {
@@ -83,7 +78,7 @@
               "RelativeDocumentMoniker": "ForPractice\\Program.cs",
               "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\practice\\ForPractice\\ForPractice\\Program.cs*",
               "RelativeToolTip": "ForPractice\\Program.cs*",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwEwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T18:59:48.306Z",
               "EditorCaption": ""
@@ -91,28 +86,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DesignerEngineer.cs",
-              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\practice\\ForPractice\\ForPractice\\Casting\\DesignerEngineer.cs",
-              "RelativeDocumentMoniker": "ForPractice\\Casting\\DesignerEngineer.cs",
-              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\practice\\ForPractice\\ForPractice\\Casting\\DesignerEngineer.cs",
-              "RelativeToolTip": "ForPractice\\Casting\\DesignerEngineer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "Engineer.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\practice\\ForPractice\\ForPractice\\Casting\\Engineer.cs",
+              "RelativeDocumentMoniker": "ForPractice\\Casting\\Engineer.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\practice\\ForPractice\\ForPractice\\Casting\\Engineer.cs",
+              "RelativeToolTip": "ForPractice\\Casting\\Engineer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T19:20:59.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T19:18:22.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "IRepo.cs",
               "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\practice\\ForPractice\\ForPractice\\Interface\\IRepo.cs",
               "RelativeDocumentMoniker": "ForPractice\\Interface\\IRepo.cs",
               "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\practice\\ForPractice\\ForPractice\\Interface\\IRepo.cs",
               "RelativeToolTip": "ForPractice\\Interface\\IRepo.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAQwFwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAQwGcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T19:01:00.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T19:01:00.309Z"
             },
             {
               "$type": "Bookmark",
@@ -121,6 +114,42 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DesignerEngineer.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\practice\\ForPractice\\ForPractice\\Casting\\DesignerEngineer.cs",
+              "RelativeDocumentMoniker": "ForPractice\\Casting\\DesignerEngineer.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\practice\\ForPractice\\ForPractice\\Casting\\DesignerEngineer.cs",
+              "RelativeToolTip": "ForPractice\\Casting\\DesignerEngineer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T19:20:59.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\practice\\ForPractice\\ForPractice\\Casting\\Person.cs",
+              "RelativeDocumentMoniker": "ForPractice\\Casting\\Person.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\practice\\ForPractice\\ForPractice\\Casting\\Person.cs",
+              "RelativeToolTip": "ForPractice\\Casting\\Person.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T21:08:42.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProgrammerEngineer.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\practice\\ForPractice\\ForPractice\\Casting\\ProgrammerEngineer.cs",
+              "RelativeDocumentMoniker": "ForPractice\\Casting\\ProgrammerEngineer.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\practice\\ForPractice\\ForPractice\\Casting\\ProgrammerEngineer.cs",
+              "RelativeToolTip": "ForPractice\\Casting\\ProgrammerEngineer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T19:23:07.296Z"
             }
           ]
         }
