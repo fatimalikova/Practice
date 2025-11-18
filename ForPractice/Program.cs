@@ -69,15 +69,38 @@ namespace ForPractice
             ////Engineer engineer = new ProgrammerEngineer(); // Upcasting
 
 
-            ConcretePerson person = new ConcretePerson()
-            {
-                Id = 1,
-                Name = "John Doe",
-                Age = 25,
-                Birthday = new DateTime(2007, 8, 25)
-            };
-            person.Detail();
+            //ConcretePerson person = new ConcretePerson()
+            //{
+            //    Id = 1,
+            //    Name = "John Doe",
+            //    Age = 25,
+            //    Birthday = new DateTime(2007, 8, 25)
+            //};
+            //person.Detail();
 
+            ProgrammerEngineer programmerEngineer = new ProgrammerEngineer()
+            {
+                Id = 2,
+                Name = "Jane Smith",
+                Age = 30,
+                Birthday = new DateTime(1993, 3, 15),
+                ProgrammingLanguage = "C#"
+            };
+            ProgrammerEngineer anotherProgrammerEngineer = new ProgrammerEngineer()
+            {
+                Id = 3,
+                Name = "Alice Johnson",
+                Age = 28,
+                Birthday = new DateTime(1995, 7, 10),
+                ProgrammingLanguage = "Java"
+            };
+
+            ProgrammerEngineer[] programmers = new ProgrammerEngineer[] { programmerEngineer, anotherProgrammerEngineer };
+            Array.Sort(programmers);
+            foreach (var prog in programmers)
+            {
+                Console.WriteLine(prog);
+            }
         }
     }
 }

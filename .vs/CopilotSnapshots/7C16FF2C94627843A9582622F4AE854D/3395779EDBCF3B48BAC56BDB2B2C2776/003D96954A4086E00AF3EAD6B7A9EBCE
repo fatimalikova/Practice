@@ -1,0 +1,39 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ForPractice.Casting
+{
+    internal sealed class ProgrammerEngineer : Engineer, IComparable, IComparable<ProgrammerEngineer>
+    {
+        public string ProgrammingLanguage { get; set; }
+
+        public int CompareTo(object? obj)
+        {
+            if (obj is ProgrammerEngineer other)
+                return CompareTo(other);
+
+            // per IComparable contract, if obj is not comparable, throw
+            throw new ArgumentException("Object is not a ProgrammerEngineer", nameof(obj));
+        }
+
+        public int CompareTo(ProgrammerEngineer? other)
+        {
+            if (ReferenceEquals(this, other)) return 0;
+            if (other is null) return 1; // this instance is greater than null
+
+            // handle null or empty names gracefully
+            string? nameA = this.Name ?? string.Empty;
+            string? nameB = other.Name ?? string.Empty;
+
+            return string.Compare(nameA, nameB, StringComparison.Ordinal);
+        }
+
+        public override void DisplayInfo()
+        {
+            Console.WriteLine($"Id: {Id}, Name: {Name}, Age: {Age}, Birthday: {Birthday.ToShortDateString()}, Programming Language: {ProgrammingLanguage}");
+        }
+    }
+}
