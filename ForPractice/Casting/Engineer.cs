@@ -8,7 +8,7 @@ namespace ForPractice.Casting
 {
     internal class Engineer : Person
     {
-        public string[] KnowledgeAreas { get; set; }
+        public string[] KnowledgeAreas { get; set; } // New property specific to Engineer
 
         public override void DisplayInfo()
         {

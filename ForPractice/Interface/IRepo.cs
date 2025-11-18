@@ -14,7 +14,7 @@ namespace ForPractice.Interface
         void GetAll();
         void GetById();
        
-    }
+    } 
     internal interface IEmail
     {
         void SendEmail();
